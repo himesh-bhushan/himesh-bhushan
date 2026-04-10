@@ -1,19 +1,13 @@
 <div align="center">
-  <h1>Hi there, I'm Himesh 👋</h1>
+  <h1>Hello World, I'm Himesh </h1>
   <h3><b>Software Engineering Intern | Full-Stack & Systems Developer</b></h3>
-  <p><i>Building robust web applications and bridging the gap with bare-metal hardware.</i></p>
 </div>
 
 ---
 
 ### 👨‍💻 About Me
 
-I am a pre-final year Computing Science student at Heriot-Watt University. My engineering experience spans the entire stack—from developing responsive, user-centric web platforms to engineering dynamically scalable algorithms and hardware-integrated logic. I am actively seeking a Software Engineering internship in Kuala Lumpur (May – July 2026) to apply my skills in a high-paced, industry environment.
-
-* 🚀 **Currently Building:** Leading development on **CatchUp**, a comprehensive digital health-tracking platform, managing the full project lifecycle from prototype to deployment.
-* 🧠 **Exploring:** Low-level system performance, ARM Assembly optimizations, and concurrent backend architectures in Java.
-* ⚡ **Hardware Logic:** Engineered a dynamically scalable brute-force PIN cracker and custom controllers using direct memory-mapped I/O on a Raspberry Pi.
-* 🤝 **Community Leadership:** Driven impact through strategic planning as VP of Synergetic Organization, organizing educational conferences impacting 200+ students.
+I am passionate about taking complex ideas and turning them into fast, reliable software. I jump between building high-level web applications and writing low-level hardware logic with a huge appetite for learning. For me, programming is all about solving tough problems, writing clean code, and building systems that perform flawlessly under the hood.
 
 ---
 
@@ -36,8 +30,6 @@ I am a pre-final year Computing Science student at Heriot-Watt University. My en
 
 ---
 
-### 🐍 GitHub Contribution Animation
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/himesh-bhushan/himesh-bhushan/output/github-contribution-grid-snake-dark.svg">
@@ -48,8 +40,3 @@ I am a pre-final year Computing Science student at Heriot-Watt University. My en
 
 ---
 
-<div align="center">
-  <b>Let's Connect:</b><br><br>
-  <a href="https://linkedin.com/in/himesh-bhushan"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:bhushanhimesh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
-</div>
